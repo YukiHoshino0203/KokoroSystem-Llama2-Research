@@ -1,5 +1,9 @@
-*Note: These demos are designed to demonstrate the validity of the mathematical framework. 
-They are not intended for direct practical use, but rather to showcase research value and potential.*
+*Note: These demos are designed to demonstrate the validity of a completely new theoretical framework — representing emotions and intentions as mathematical formulas. 
+The purpose is to show that this framework can, in fact, be applied to language models. 
+While the project is still at a research stage and not intended for direct practical use, the results clearly confirm that the formulas exert a tangible effect. 
+This serves as evidence of its research value and potential for future development.*
+
+---
 
 # KokoroSystem EX + Llama2 Research Implementation
 
