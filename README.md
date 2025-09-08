@@ -1,3 +1,6 @@
+*Note: These demos are designed to demonstrate the validity of the mathematical framework. 
+They are not intended for direct practical use, but rather to showcase research value and potential.*
+
 # KokoroSystem EX + Llama2 Research Implementation
 
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
